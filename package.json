@@ -3,7 +3,7 @@
     "description": "A grunt task for running js-codesniffer validator",
     "version": "0.0.1",
     "homepage": "https://github.com/rodrigocuriel/grunt-jscs",
-    "author": "Dmitry Sheiko <web.sbelarus@gmail.com> (http://twitter.com/roocuriel)",
+    "author": "Rodrigo Curiel",
     "repository": {
         "type": "git",
         "url": "git://github.com/rodrigocuriel/grunt-jscs.git"
@@ -36,6 +36,6 @@
     "keywords": [
         "gruntplugin"
     ],
-    "_from": "grunt-contrib-jscs@",
+    "_from": "grunt-jscs@0.0.1",
     "license": "MIT"
 }
