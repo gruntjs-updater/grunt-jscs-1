@@ -23,7 +23,7 @@
         "test": "grunt test"
     },
     "dependencies": {
-        "jscodesniffer": ">=2.0.3",
+        "os-jscs": "~0.1.5",
         "grunt-lib-contrib": "~0.6.1"
     },
     "devDependencies": {
